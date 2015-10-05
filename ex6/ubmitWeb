@@ -1,0 +1,25 @@
+ Volume in drive C is OS
+ Volume Serial Number is EC36-97B8
+
+ Directory of C:\Octave\lei\ex6
+
+[.]                         linearKernel.m
+[..]                        plotData.m
+dataset3Params.m            porterStemmer.m
+dataset3Params.m~           processEmail.m
+emailFeatures.m             processEmail.m~
+emailFeatures.m~            readFile.m
+emailSample1.txt            spamSample1.txt
+emailSample2.txt            spamSample2.txt
+ex6.m                       spamTest.mat
+ex6.m~                      spamTrain.mat
+ex6.pdf                     submit.m
+ex6data1.mat                submitWeb.m
+ex6data2.mat                svmPredict.m
+ex6data3.mat                svmTrain.m
+ex6_spam.m                  visualizeBoundary.m
+gaussianKernel.m            visualizeBoundaryLinear.m
+gaussianKernel.m~           vocab.txt
+getVocabList.m              
+              33 File(s)      1,009,498 bytes
+               2 Dir(s)   5,525,127,168 bytes free
